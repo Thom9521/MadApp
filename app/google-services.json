@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "724095577748",
+    "firebase_url": "https://tilfmad.firebaseio.com",
+    "project_id": "tilfmad",
+    "storage_bucket": "tilfmad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724095577748:android:3eeabe9c3b675e86",
+        "android_client_info": {
+          "package_name": "thom9521.madapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724095577748-gf00cr17lsc0qj3dt25k53k1jfllsame.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thom9521.madapp",
+            "certificate_hash": "a6d4faa717aedde8dbbabc1326c42fa32774648a"
+          }
+        },
+        {
+          "client_id": "724095577748-59orqlkjsjl5n43gtl5dkvroginomt28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFcRRpYXjhR-BFjdGRoYeUy033fQu67M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724095577748-59orqlkjsjl5n43gtl5dkvroginomt28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
